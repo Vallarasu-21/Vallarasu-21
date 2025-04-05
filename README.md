@@ -29,5 +29,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasu-21&" alt="vallarasu-21" /></p>
 
 <p align="center">
-  <img src="https://github.com/Vallarasu-21/Vallarasu-21/blob/output/github-snake-dark.svg" alt="Snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vallarasu-21/Vallarasu-21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vallarasu-21/Vallarasu-21/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Vallarasu-21/Vallarasu-21/output/github-snake.svg" />
+</picture>
 </p>
