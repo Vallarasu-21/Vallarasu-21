@@ -28,6 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vallarasu-21&" alt="vallarasu-21" /></p>
 
-<div align="center">
-![snake gif](https://github.com/Vallarasu-21/Vallarasu-21/blob/output/github-snake-dark.svg)
-</div>
+<p align="center">
+  <img src="https://github.com/Vallarasu-21/Vallarasu-21/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
