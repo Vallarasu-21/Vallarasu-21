@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vallarasusk06@gmail.com**
 
-- ⚡ Fun fact **Programming is Easy**
+- ⚡ Fun fact ** Hello, World! is the traditional first program for beginners.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
